@@ -1,4 +1,4 @@
-obj-m := platform-dummy-char.o
+obj-m := platform-dummy-char.o platform_device.o
 
 SRC := $(shell pwd)
 
